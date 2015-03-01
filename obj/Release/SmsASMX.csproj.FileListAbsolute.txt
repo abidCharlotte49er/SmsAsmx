@@ -1,0 +1,10 @@
+c:\users\abid\documents\visual studio 2013\Projects\SmsASMX\SmsASMX\bin\SmsASMX.dll.config
+c:\users\abid\documents\visual studio 2013\Projects\SmsASMX\SmsASMX\bin\SmsASMX.dll
+c:\users\abid\documents\visual studio 2013\Projects\SmsASMX\SmsASMX\bin\SmsASMX.pdb
+c:\users\abid\documents\visual studio 2013\Projects\SmsASMX\SmsASMX\bin\RestSharp.dll
+c:\users\abid\documents\visual studio 2013\Projects\SmsASMX\SmsASMX\bin\Twilio.Api.dll
+c:\users\abid\documents\visual studio 2013\Projects\SmsASMX\SmsASMX\bin\RestSharp.xml
+c:\users\abid\documents\visual studio 2013\Projects\SmsASMX\SmsASMX\bin\Twilio.Api.pdb
+c:\users\abid\documents\visual studio 2013\Projects\SmsASMX\SmsASMX\bin\Twilio.Api.xml
+c:\users\abid\documents\visual studio 2013\Projects\SmsASMX\SmsASMX\obj\Release\SmsASMX.dll
+c:\users\abid\documents\visual studio 2013\Projects\SmsASMX\SmsASMX\obj\Release\SmsASMX.pdb
